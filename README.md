@@ -1,5 +1,3 @@
-# .github
-
 # Millerlab: The Technological Upbeat
 **An initiative by [millerlab](https://millerlab.io)**
  
